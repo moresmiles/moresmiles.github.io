@@ -1,11 +1,10 @@
 ---
 layout: post
 title:      "Sinatra Stuff "
-date:       2018-01-15 09:26:13 +0000
+date:       2018-01-15 04:26:14 -0500
 permalink:  sinatra_stuff
 ---
 
- 
 Unlike the CLI app project, I was less nervous to approach this one. Perhaps it was that I had already made a whole project "from scratch" or maybe having worked hard on the Sinatra NYC and Fwitter labs, I felt more confident. 
  
  
@@ -23,7 +22,7 @@ Mets hat, here I come (**Box 9** - Hats, Storage Unit)
  
 ## Ok, but How? 
  
-Firstly shoutout to Flatiron Alum Brian Emory and his awesome corneal gem https://github.com/thebrianemory/corneal .  
+Firstly shoutout to Flatiron Alum Brian Emory and his awesome corneal gem [](http://github.com/thebrianemory/corneal) .  
  
 In his words:  
 *A Ruby gem that is a Sinatra app generator with Rails-like simplicity. I built this to help fellow Flatiron School students with their Sinatra assessments.* 
@@ -41,7 +40,7 @@ But truthfully, Owners have moves, boxes, and items, and Moves have boxes and it
  
 Once all the relational mapping was done, the rest of the program writing went rather smoothly. 
  
-![Early mapping](https://imgur.com/2iglfu2) 
+![Early mapping](https://ibb.co/dfb2XR) 
  
 Having just finished the Sinatra section and specifically the Sinatra NYC and Fwitter labs, I felt rather comfortable with RESTful routes and CRUD actions. While having four controllers in addition to the `ApplicationController`, created a lot of routes and views to keep track of, for the most part a lot of them had very similar functionality, and didn't prove too big of a challenge. 
  
@@ -62,8 +61,7 @@ After completing the functionality of the app, the result was lacking any type o
  
 Although we had learned CSS way earlier in the curriculum, I don't think it was utilized very much since then, if at all. So essentially, I had forgotten how to use it. I decided that I would "re-learn" CSS in a day or so, and be able to give my app some flair. However instead of actually trying to learn it, what I was really looking for was some quick fixes to make the app look presentable.  
  
-After a couple of days of this I was getting a bit frustrated. I dabbled in bootstrap, but it seemed way to large for such a small project as this. I ended up added a much lighter styling in skeleton http://getskeleton.com/ .  
- 
+After a couple of days of this I was getting a bit frustrated. I dabbled in bootstrap, but it seemed way to large for such a small project as this. I ended up added a much lighter styling in skeleton [](http://getskeleton.com).
 In their words: 
 *A dead simple, responsive boilerplate. Light as a feather at ~400 lines & built with mobile in mind.* 
  
@@ -75,9 +73,9 @@ I know I need to take time to properly learn how to style as it is an integral p
  
 That being said I did manage to style a few pages that I am proud of. 
  
-![Home Page](https://imgur.com/ffqHv1P) 
+![Home Page](https://ibb.co/hmguCR) 
  
-![Log In Page](https://imgur.com/AeVOj5C) 
+![Log In Page](https://ibb.co/hD5t6m) 
  
 ## Conclusion 
  
