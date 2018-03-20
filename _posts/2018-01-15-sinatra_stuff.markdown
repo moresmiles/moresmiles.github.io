@@ -39,8 +39,8 @@ At first the relationships were like a chain:
 But truthfully, Owners have moves, boxes, and items, and Moves have boxes and items, so  `move_id`, `box_id`, and `item_id` attributes were given to owners, and  `box_id` and `item_id` attributes were given to moves, and Boxes had an `item_id`.  
  
 Once all the relational mapping was done, the rest of the program writing went rather smoothly. 
- 
-![Early mapping](https://ibb.co/dfb2XR) 
+
+![Early mapping](http://ibb.co/dfb2XR) 
  
 Having just finished the Sinatra section and specifically the Sinatra NYC and Fwitter labs, I felt rather comfortable with RESTful routes and CRUD actions. While having four controllers in addition to the `ApplicationController`, created a lot of routes and views to keep track of, for the most part a lot of them had very similar functionality, and didn't prove too big of a challenge. 
  
@@ -73,9 +73,9 @@ I know I need to take time to properly learn how to style as it is an integral p
  
 That being said I did manage to style a few pages that I am proud of. 
  
-![Home Page](https://ibb.co/hmguCR) 
+![Home Page](http://ibb.co/hmguCR) 
  
-![Log In Page](https://ibb.co/hD5t6m) 
+![Log In Page](http://ibb.co/hD5t6m) 
  
 ## Conclusion 
  
