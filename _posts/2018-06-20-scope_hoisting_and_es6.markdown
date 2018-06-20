@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Scope, Hoisting, and ES6"
-date:       2018-06-20 07:06:15 +0000
+date:       2018-06-20 03:06:16 -0400
 permalink:  scope_hoisting_and_es6
 ---
 
@@ -473,7 +473,7 @@ Another way to achieve the same result, is by using an arrow function. By using 
 As you can see, this inner arrow function retains the context of the outer `order` method. Just as the outer `order` method's context is `coffee`, the inner function's context is also `coffee`. The arrow function has performed .bind(this) for us behind the scenes.
 
 ## To recap
-###### Scope
+### Scope
 
 In Javascript, there are two types of scopes, `global` and `local`. Understanding what scope you are currently working in, is a key tool to coding with Javascript.
 
@@ -481,7 +481,7 @@ Unless you are trying to define a global variable (not particularly recommended)
 
 While `const` and `let` maintain block scope, `var` does not. Another reason to not use `var`.
 
-###### Hoisting
+### Hoisting
 
 Hoisting is one of Javascript's quirkier concepts, but it is very important to understand how it works. 
 
@@ -490,7 +490,7 @@ By following these two simple rules, you can avoid any potential hoisting confus
 1. Declare first and use later. 
 2. Don't use `var`, only `let` and `const`
 
-###### Arrow Functions
+### Arrow Functions
 
 ES6 arrow functions allow us a shorthand syntax for writing functions (ideal for one liners). 
 
